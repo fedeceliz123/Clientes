@@ -1,0 +1,13 @@
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

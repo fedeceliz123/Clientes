@@ -1,0 +1,10 @@
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\fede_\OneDrive\Escritorio\Desafio\ClientesApi\Business\obj\Debug\netcoreapp3.1\Business.pdb
